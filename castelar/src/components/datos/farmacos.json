@@ -1,0 +1,3079 @@
+[
+{
+	"droga": "Ac Acetilsalicilico",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acemukol",
+	"dosis": "600 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acenocumarol",
+	"dosis": "4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aciclovir",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Acido Fenofibrico",
+	"dosis": "105 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acido Folico",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acido Fusidico",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Acido Tioctico",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Adrenalina",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Agomelatina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "0.25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "0.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amiodarona",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amitriptilina",
+	"dosis": "10mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amitriptilina",
+	"dosis": "25mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amlodipina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amlodipina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amoxicilina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amoxicilina + Ac. Clav",
+	"dosis": "1 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ampicilina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Anusol A Urguento",
+	"dosis": "10 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "15 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripriprazol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atenolol",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atorvastatina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atorvastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atropina",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Azitromicina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Baclofeno",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Barex Sobre",
+	"dosis": "sobre",
+	"presentacion": "Polvo"
+},
+{
+	"droga": "Betametazona + Gentamicina",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Betametazona Crema",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Bicarbonato Sodio",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Biperideno",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bisoprolol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bromazepam",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bromazepam",
+	"dosis": "6 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Budesonide Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Budesonide Puff",
+	"dosis": "Puff",
+	"presentacion": "Puff"
+},
+{
+	"droga": "Bupropión",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Calcio Acetato",
+	"dosis": "6 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carbamazepina",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carbamazepina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carvedidol",
+	"dosis": "12,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cefalexina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ceftriazona",
+	"dosis": "1g",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Cilostazol",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ciprof + Betam Gotas Oftalmicas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ciprofloxacina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ciprofloxacina",
+	"dosis": "200 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Citalopram",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Citalopram",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Claritromicina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clindamicina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "0,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "0,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepan",
+	"dosis": "Sol. Oral",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Clonazepan",
+	"dosis": "Solución Oral",
+	"presentacion": "Solución Oral"
+},
+{
+	"droga": "Clopidogel",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cloran + Asoc. Crema (Iruxol)",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Clorpromazina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clotiapina",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clozapina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Comipramina (Retard)",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Complejo B",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Complejo Vitaminico",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cotrimazol + Trimetopina",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Desvenlafaxina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Desvenlafaxina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dexametazona",
+	"dosis": "8mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diazepam",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Diazepan",
+	"dosis": "2 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diclofenac",
+	"dosis": "75 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diclofenac",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Difenhidramina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Difenhidramina",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Digoxina",
+	"dosis": "0,5 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Digoxina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipemina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipirona",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipirona",
+	"dosis": "100 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Divalproato de Sodio",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Divalproato De Sodio/Magnesio",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Domperidona",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Donepezilo",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dramamine",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Duloxetina",
+	"dosis": "30 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Duloxetina",
+	"dosis": "60 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Enalapril",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ensure Plus",
+	"dosis": "237 ml",
+	"presentacion": "Botella"
+},
+{
+	"droga": "Escitalopram",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Escitalopram",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Espironolactona",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Eszopiclona (8 horas)",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Eszopiclona (8 horas)",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ezetimibe",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Calcica / Fenobarbital (Lotoquis 5)",
+	"dosis": "100 mg / 50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Sodica",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Sodica",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Fenob + Calcio Difenil.",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenobarbital",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenofibrato",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Finescar Aerosol",
+	"dosis": "Aerosol",
+	"presentacion": "Aerosol"
+},
+{
+	"droga": "Flunitrazepam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fluoxetina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fluvoxamina",
+	"dosis": "100mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Furosemida",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Furosemida",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Galantamina",
+	"dosis": "4 Mg",
+	"presentacion": "Camprimidos"
+},
+{
+	"droga": "Gammatet 500 Ui",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Glibenclamida",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Decanoato",
+	"dosis": "3 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Decanoato",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Hidrocortisona",
+	"dosis": "100 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hidrocortisona",
+	"dosis": "500 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hidroxicina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hidroxicina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina",
+	"dosis": "20 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hioscina + Dipirona",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina + Dipirona",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Homatropina",
+	"dosis": "20 ml",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ibuprofeno",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ipatropio",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ipratropio Bromuro (Atrovent)",
+	"dosis": "20 ml",
+	"presentacion": "Solución"
+},
+{
+	"droga": "Lactulon",
+	"dosis": "jarabe",
+	"presentacion": "Jarabe"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lebocar 250",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levetiracetam",
+	"dosis": "1000 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levetiracetam",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levodopa + Carbidopa",
+	"dosis": "250/25",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levofloxacina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levomepromazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levomepromazina",
+	"dosis": "2mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "50 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "125 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "150 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "175 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "75 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "88 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "100 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lidocaina 1%",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Litio",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Litio",
+	"dosis": "450 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Litio Carbonato",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loperamida",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loratadina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loratadina + Betamet.",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "2,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "Solución Oral",
+	"presentacion": "Solución Oral"
+},
+{
+	"droga": "LORAZEPAN SUBL.",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos Sublinguales"
+},
+{
+	"droga": "Losartan",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Losartan",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "60 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "80mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Madopar",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Melatonina",
+	"dosis": "3mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Melatonina",
+	"dosis": "2mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Memantine",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Memantine",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metformina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metformina",
+	"dosis": "850 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "36 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "54 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "18 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "10 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Midazolam",
+	"dosis": "15 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Mirtazapina",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Modafinilo",
+	"dosis": "200mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Montelukast",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Neumoterol",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "2.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Omega 3",
+	"dosis": "Cápsulas",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Omeprazol",
+	"dosis": "20 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Omeprazol",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxcarbamacepina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxcarbamacepina",
+	"dosis": "600 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxibutinina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paliperidona",
+	"dosis": "100mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "1g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "500mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "40mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "25mg",
+	"presentacion": "Comprimidos CR"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "10mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pimavanserina",
+	"dosis": "17mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pimavanserina",
+	"dosis": "34mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pramipexol",
+	"dosis": "0.25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pramipexol",
+	"dosis": "0.375 mg",
+	"presentacion": "Comprimidos LP"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "100 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "150 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "25 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "300 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "50 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "75 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Prometazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Propranolol",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ranitidina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Razagilina",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Remizeral",
+	"dosis": "4.6 mg",
+	"presentacion": "Parches"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "0,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "Sol. Oral",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "0.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "4mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "25 mg vial a.x 1+aguja",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Ritalina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ritalina Ap",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "1.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "4.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "6 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rosuvastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Salbutamol Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Salbutamol Puff",
+	"dosis": "Puff",
+	"presentacion": "Puff"
+},
+{
+	"droga": "Securo",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Siliconas (Aerogal)",
+	"dosis": "Aerosol",
+	"presentacion": "Aerosol"
+},
+{
+	"droga": "Simbastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Simeticona",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sintrom",
+	"dosis": "4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tamoxifeno",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tamsulosina",
+	"dosis": "0,4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Terazocina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tiamina, Piridoxina, Cianocobalamina",
+	"dosis": "Tanvimil B1B6B12",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tobradex",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Topiramato",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tramadol",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tramadol",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Trazodona",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trazodona",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluoperazina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluoperazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluorperazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trimebutina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Valproato De Sodio/Magnesio",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Valsartan",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vaselina + Asoc. (Agarol)",
+	"dosis": "Jarabe",
+	"presentacion": "Jarabe"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "75 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Venlafaxina LP",
+	"dosis": "37,5 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Venlafaxina XR",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina XR",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vialsartan",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vilazodona",
+	"dosis": "40mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vitamina b12",
+	"dosis": "b12",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "60 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem",
+	"dosis": "12,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem CR",
+	"dosis": "6,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem intersueño",
+	"dosis": "1.75mg",
+	"presentacion": "Sublingual"
+},
+{
+	"droga": "Zolpidem intersueño",
+	"dosis": "3.5mg",
+	"presentacion": "Sublingual"
+},
+{
+	"droga": "Zuclopentixol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zuclopentixol Depot",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": ""
+},
+{
+	"droga": "DROGA",
+	"dosis": "DOSIS",
+	"presentacion": "PRESENTACIÓN"
+},
+{
+	"droga": "Ac Acetilsalicilico",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acemukol",
+	"dosis": "600 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acenocumarol",
+	"dosis": "4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aciclovir",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Acido Fenofibrico",
+	"dosis": "105 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acido Folico",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Acido Fusidico",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Acido Tioctico",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Adrenalina",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Agomelatina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "0.25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "0.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Alprazolam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amiodarona",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amitriptilina",
+	"dosis": "10mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amitriptilina",
+	"dosis": "25mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amlodipina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amlodipina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amoxicilina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Amoxicilina + Ac. Clav",
+	"dosis": "1 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ampicilina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Anusol A Urguento",
+	"dosis": "10 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripiprazol",
+	"dosis": "15 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Aripriprazol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atenolol",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atorvastatina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atorvastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Atropina",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Azitromicina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Baclofeno",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Barex Sobre",
+	"dosis": "sobre",
+	"presentacion": "Polvo"
+},
+{
+	"droga": "Betametazona + Gentamicina",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Betametazona Crema",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Bicarbonato Sodio",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Biperideno",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bisoprolol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bromazepam",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Bromazepam",
+	"dosis": "6 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Budesonide Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Budesonide Puff",
+	"dosis": "Puff",
+	"presentacion": "Puff"
+},
+{
+	"droga": "Bupropión",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Calcio Acetato",
+	"dosis": "6 g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carbamazepina",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carbamazepina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Carvedidol",
+	"dosis": "12,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cefalexina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ceftriazona",
+	"dosis": "1g",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Cilostazol",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ciprof + Betam Gotas Oftalmicas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ciprofloxacina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ciprofloxacina",
+	"dosis": "200 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Citalopram",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Citalopram",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Claritromicina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clindamicina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clomipramina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "0,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "0,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepam",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clonazepan",
+	"dosis": "Sol. Oral",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Clonazepan",
+	"dosis": "Solución Oral",
+	"presentacion": "Solución Oral"
+},
+{
+	"droga": "Clopidogel",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cloran + Asoc. Crema (Iruxol)",
+	"dosis": "Crema",
+	"presentacion": "Crema"
+},
+{
+	"droga": "Clorpromazina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clotiapina",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Clozapina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Comipramina (Retard)",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Complejo B",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Complejo Vitaminico",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Cotrimazol + Trimetopina",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Desvenlafaxina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Desvenlafaxina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dexametazona",
+	"dosis": "8mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diazepam",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Diazepan",
+	"dosis": "2 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diclofenac",
+	"dosis": "75 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Diclofenac",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Difenhidramina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Difenhidramina",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Digoxina",
+	"dosis": "0,5 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Digoxina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipemina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipirona",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dipirona",
+	"dosis": "100 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Divalproato de Sodio",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Divalproato De Sodio/Magnesio",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Domperidona",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Donepezilo",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Dramamine",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Duloxetina",
+	"dosis": "30 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Duloxetina",
+	"dosis": "60 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Enalapril",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ensure Plus",
+	"dosis": "237 ml",
+	"presentacion": "Botella"
+},
+{
+	"droga": "Escitalopram",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Escitalopram",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Espironolactona",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Eszopiclona (8 horas)",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Eszopiclona (8 horas)",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ezetimibe",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Calcica / Fenobarbital (Lotoquis 5)",
+	"dosis": "100 mg / 50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Sodica",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenitoina Sodica",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Fenob + Calcio Difenil.",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenobarbital",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fenofibrato",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Finescar Aerosol",
+	"dosis": "Aerosol",
+	"presentacion": "Aerosol"
+},
+{
+	"droga": "Flunitrazepam",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fluoxetina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Fluvoxamina",
+	"dosis": "100mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Furosemida",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Furosemida",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Galantamina",
+	"dosis": "4 Mg",
+	"presentacion": "Camprimidos"
+},
+{
+	"droga": "Gammatet 500 Ui",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Glibenclamida",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Haloperidol",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Decanoato",
+	"dosis": "3 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Decanoato",
+	"dosis": "1 ml",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Haloperidol Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Hidrocortisona",
+	"dosis": "100 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hidrocortisona",
+	"dosis": "500 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hidroxicina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hidroxicina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina",
+	"dosis": "20 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Hioscina + Dipirona",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Hioscina + Dipirona",
+	"dosis": "inyectable",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Homatropina",
+	"dosis": "20 ml",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ibuprofeno",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ipatropio",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Ipratropio Bromuro (Atrovent)",
+	"dosis": "20 ml",
+	"presentacion": "Solución"
+},
+{
+	"droga": "Lactulon",
+	"dosis": "jarabe",
+	"presentacion": "Jarabe"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lamotrigina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lebocar 250",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levetiracetam",
+	"dosis": "1000 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levetiracetam",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levodopa + Carbidopa",
+	"dosis": "250/25",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levofloxacina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levomepromazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levomepromazina",
+	"dosis": "2mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "50 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "125 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "150 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "175 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "75 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "88 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Levotiroxina",
+	"dosis": "100 mcg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lidocaina 1%",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Litio",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Litio",
+	"dosis": "450 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Litio Carbonato",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loperamida",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loratadina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Loratadina + Betamet.",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "2,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "Ampolla",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lorazepan",
+	"dosis": "Solución Oral",
+	"presentacion": "Solución Oral"
+},
+{
+	"droga": "LORAZEPAN SUBL.",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos Sublinguales"
+},
+{
+	"droga": "Losartan",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Losartan",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "60 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Lurasidona",
+	"dosis": "80mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Madopar",
+	"dosis": "250 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Melatonina",
+	"dosis": "3mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Melatonina",
+	"dosis": "2mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Memantine",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Memantine",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metformina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metformina",
+	"dosis": "850 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "36 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "54 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "18 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metilfenidato",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "10 mg",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Metroclopramida",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Midazolam",
+	"dosis": "15 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Mirtazapina",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Modafinilo",
+	"dosis": "200mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Montelukast",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Neumoterol",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "2.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Olanzapina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Omega 3",
+	"dosis": "Cápsulas",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Omeprazol",
+	"dosis": "20 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Omeprazol",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxcarbamacepina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxcarbamacepina",
+	"dosis": "600 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Oxibutinina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paliperidona",
+	"dosis": "100mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "1g",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paracetamol",
+	"dosis": "500mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "40mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "25mg",
+	"presentacion": "Comprimidos CR"
+},
+{
+	"droga": "Paroxetina",
+	"dosis": "10mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pimavanserina",
+	"dosis": "17mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pimavanserina",
+	"dosis": "34mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pramipexol",
+	"dosis": "0.25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pramipexol",
+	"dosis": "0.375 mg",
+	"presentacion": "Comprimidos LP"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "100 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "150 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "25 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "300 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "50 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Pregabalina",
+	"dosis": "75 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Prometazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Propranolol",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Quetiapina XR",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ranitidina",
+	"dosis": "300 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Razagilina",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Remizeral",
+	"dosis": "4.6 mg",
+	"presentacion": "Parches"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "0,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "2 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "1 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "Sol. Oral",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "0.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "4mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Risperidona",
+	"dosis": "25 mg vial a.x 1+aguja",
+	"presentacion": "Ampolla"
+},
+{
+	"droga": "Ritalina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ritalina Ap",
+	"dosis": "30 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "1.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "3 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "4.5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rivastigmina",
+	"dosis": "6 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Rosuvastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Salbutamol Gotas",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Salbutamol Puff",
+	"dosis": "Puff",
+	"presentacion": "Puff"
+},
+{
+	"droga": "Securo",
+	"dosis": "Comprimidos",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sertralina",
+	"dosis": "500 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Siliconas (Aerogal)",
+	"dosis": "Aerosol",
+	"presentacion": "Aerosol"
+},
+{
+	"droga": "Simbastatina",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Simeticona",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Sintrom",
+	"dosis": "4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tamoxifeno",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tamsulosina",
+	"dosis": "0,4 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Terazocina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tiamina, Piridoxina, Cianocobalamina",
+	"dosis": "Tanvimil B1B6B12",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tioridazina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tobradex",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Topiramato",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tramadol",
+	"dosis": "25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Tramadol",
+	"dosis": "Gotas",
+	"presentacion": "Gotas"
+},
+{
+	"droga": "Trazodona",
+	"dosis": "100 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trazodona",
+	"dosis": "50 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluoperazina",
+	"dosis": "5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluoperazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trifluorperazina",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Trimebutina",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Valproato De Sodio/Magnesio",
+	"dosis": "400 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Valsartan",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vaselina + Asoc. (Agarol)",
+	"dosis": "Jarabe",
+	"presentacion": "Jarabe"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina",
+	"dosis": "75 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Venlafaxina LP",
+	"dosis": "37,5 mg",
+	"presentacion": "Cápsulas"
+},
+{
+	"droga": "Venlafaxina XR",
+	"dosis": "150 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Venlafaxina XR",
+	"dosis": "75 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vialsartan",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vilazodona",
+	"dosis": "40mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Vitamina b12",
+	"dosis": "b12",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "20 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "40 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "60 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Ziprasidona",
+	"dosis": "80 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem",
+	"dosis": "12,5 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem CR",
+	"dosis": "6,25 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zolpidem intersueño",
+	"dosis": "1.75mg",
+	"presentacion": "Sublingual"
+},
+{
+	"droga": "Zolpidem intersueño",
+	"dosis": "3.5mg",
+	"presentacion": "Sublingual"
+},
+{
+	"droga": "Zuclopentixol",
+	"dosis": "10 mg",
+	"presentacion": "Comprimidos"
+},
+{
+	"droga": "Zuclopentixol Depot",
+	"dosis": "200 mg",
+	"presentacion": "Comprimidos"
+}]

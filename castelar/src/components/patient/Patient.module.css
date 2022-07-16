@@ -1,0 +1,243 @@
+.containerPatient {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+.NavPatientContainer {
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0px 0px 10px 0px rgba(32, 32, 32, 0.24);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'poppins';
+	font-size: 12px;
+	max-height: 60px;
+	color: rgb(63, 63, 63);
+	border-radius: 5px;
+	position: relative;
+}
+
+.BodyPatientContainer {
+	background-color: rgb(255, 255, 255);
+	padding: 30px;
+	box-shadow: 0px 0px 10px 0px rgba(32, 32, 32, 0.24);
+	font-family: 'poppins';
+	font-size: 14px;
+	border-radius: 5px;
+	margin: 10px 0;
+	flex-grow: 1;
+}
+
+.NavPatientContainer input {
+	font-family: 'poppins';
+	padding: 10px 0;
+	height: 40px;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 14px;
+	width: 600px;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	outline: none;
+	border: 2px solid rgb(2, 154, 255);
+	border-left: none;
+	border-right: none;
+	color: rgb(63, 63, 63);
+}
+
+.NavPatientContainer .searchOk {
+	font-family: 'poppins';
+	font-weight: 600;
+	text-align: center;
+	background-color: rgba(34, 122, 255, 0.185);
+	font-size: 16px;
+	cursor: default;
+}
+
+.searchCancel {
+	background-color: rgba(34, 122, 255, 0.671);
+}
+
+.searchCancel:hover {
+	background-color: rgb(32, 135, 252);
+}
+
+.search {
+	width: 22px;
+	height: 22px;
+}
+
+.leftSearch {
+	border-top-left-radius: 100%;
+	border-bottom-left-radius: 100%;
+	border: 2px solid rgb(32, 135, 252);
+	border-right: none;
+	height: 100%;
+	min-width: 40px;
+}
+
+.containerIcon {
+	height: 100%;
+	min-width: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border: 2px solid rgb(32, 135, 252);
+	border-left: none;
+}
+
+.searchActive {
+	border-left: none;
+	background-color: rgb(32, 135, 252);
+}
+
+.searchActive:hover {
+	background-color: rgb(2, 154, 255);
+}
+
+.searchDisabled {
+	cursor: default;
+	background-color: rgba(168, 168, 168, 0.801);
+}
+
+.BodyPatientContainer {
+	display: flex;
+	padding: 0;
+}
+
+.containerMenuPatient {
+	flex-basis: 15%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.24);
+	color: rgb(59, 59, 59);
+	padding: 0;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	overflow: hidden;
+}
+.containerMenuPatient div {
+	cursor: pointer;
+	padding: 15px 0 15px 15px;
+	width: 100%;
+	text-align: left;
+	box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.151);
+	letter-spacing: 1px;
+	font-weight: 500;
+}
+
+.normal:hover {
+	box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.26);
+	color: rgb(63, 63, 63);
+	background-color: rgba(34, 122, 255, 0.103);
+	border-right: 5px solid rgb(34, 122, 255);
+}
+
+.active,
+.containerMenuPatient .active:focus {
+	background-color: rgb(34, 122, 255);
+	color: #fff;
+}
+
+.containerInfoPatient {
+	font-family: 'Poppins';
+	color: rgb(63, 63, 63);
+	flex-grow: 1;
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+}
+
+.infoMainTitle {
+	font-size: 30px;
+	margin: 0 0 20px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+}
+
+.infoMainBody {
+	width: 100%;
+	flex-grow: 1;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.containerMenuInfoPaciente {
+	position: absolute;
+	left: 30px;
+	top: 25px;
+	cursor: pointer;
+	padding: 5px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.containerButtonPDF,
+.btnStandard {
+	display: flex;
+	position: absolute;
+	right: 30px;
+	top: 25px;
+}
+
+.buttonPDF,
+.containerMenuInfoPaciente {
+	width: 40px;
+	height: 40px;
+}
+
+.buttonPDF,
+.btnStandard {
+	cursor: pointer;
+	padding: 5px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+	color: #fff;
+}
+
+.btnStandard {
+	padding: 5px 10px;
+	height: 40px;
+}
+
+.btnStandard span {
+	margin-left: 5px;
+}
+
+.menuActive,
+.menuDisabled,
+.buttonPDF,
+.btnStandard {
+	background-color: rgb(32, 135, 252);
+	box-shadow: 0px 0px 10px 0px rgba(32, 135, 252, 0.336);
+}
+
+.menuActive:hover,
+.menuDisabled:hover,
+.buttonPDF:hover,
+.btnStandard:hover {
+	background-color: rgb(7, 85, 202);
+}
+
+@media (max-width: 600px) {
+	.NavPatientContainer input,
+	.NavPatientContainer .searchOk,
+	.NavPatientContainer .notExist {
+		font-size: 10px;
+	}
+}
