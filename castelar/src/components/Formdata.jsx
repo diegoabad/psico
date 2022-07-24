@@ -178,6 +178,7 @@ const Formdata = (props) => {
 	const dispatch = useDispatch();
 	const navigate = useNavigate();
 
+  console.log(filiatorios);
 	const { setOpenFiliatorio, setDni, search } = props;
 
 	useEffect(async () => {

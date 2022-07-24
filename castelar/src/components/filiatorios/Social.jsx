@@ -107,7 +107,7 @@ const classes = useStyles();
             <TextField className={classes.textField} fullWidth variant="filled"  label={"nro_afiliado"} name="nro_afiliado" value={values.nro_afiliado} type="number" onChange={handleChange}/>
           </Grid>
           <Grid item xs = {12} sm = {8} md={2} style = {{margin: "10px"}}>
-            <TextField className={classes.textField} fullWidth variant="filled" error = {values.oficio === "" ? true : false } required = { true } label={values.oficio === "" ? "oficio" : "calle" } name="oficio" value={values.oficio} onChange={handleChange}/>
+            <TextField className={classes.textField} fullWidth variant="filled" error = {values.oficio === "" ? true : false } required = { true } label={"oficio"} name="oficio" value={values.oficio} onChange={handleChange}/>
           </Grid>
           <Grid item xs = {12} sm = {8} md={2} style = {{margin: "10px"}}>
             <TextField className={classes.textField} fullWidth required = {true} variant="filled" error = {values.cuit === "" ? true : false } label={values.cuit === "" ? "Cuit" : "CUIT" } name="cuit" value={values.cuit} onChange={handleChange}/>

@@ -17,9 +17,11 @@ export default function ModalDetails({ setOpenModal, data }) {
 	}, [arrPro]);
 
 	useEffect(() => {
-		setParrafoPro(data.problematica.split('\n'));
-		setParrafoEvo(data.evolucion.split('\n'));
-		setParrafoInt(data.interconsultas.split('\n'));
+    if (data.problematica) {
+		  setParrafoPro(data.problematica.split('\n'));
+		  setParrafoEvo(data.evolucion.split('\n'));
+		  setParrafoInt(data.interconsultas.split('\n'));
+    }
 	}, [data]);
 
 	function handleClose() {

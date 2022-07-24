@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from 'react';
 
+import { getFormulario } from '../../redux/actions/index';
+import { useDispatch, useSelector } from 'react-redux';
+
 import s from './Modal.module.css';
 import Formdata from '../Formdata';
 import EvolucionPsiquiatrica from '../EvolucionPsiquatrica';
@@ -38,8 +41,11 @@ export default function ModalFiliatorio(props) {
 
 	const [registro, setRegistro] = useState('');
 	const [formulario, setFormulario] = useState(false);
+  const Dispatch = useDispatch();
+
 
 	function handleClose() {
+    if (form === 'filiatorios') Dispatch(getFormulario(paciente));
 		setOpenFiliatorio(false);
 	}
 

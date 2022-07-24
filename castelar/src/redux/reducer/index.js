@@ -89,6 +89,7 @@ const rootReducer = (state = initialState, action) => {
 		}
 
 		case FORMULARIO:
+      console.log(action.payload);
 			return {
 				...state,
 				pacienteActual: {

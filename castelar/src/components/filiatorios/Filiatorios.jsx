@@ -114,7 +114,7 @@ const Filiatorios = (props) => {
 			setValues({
 				nombre: paciente.nombre,
 				apellido: paciente.apellido,
-				fechaNacimiento: new Date(paciente.fechaNacimiento.seconds * 1000),
+				fechaNacimiento: paciente.fechaNacimiento.seconds? new Date(paciente.fechaNacimiento.seconds * 1000) : new Date(paciente.fechaNacimiento),
 				historia_clinica: paciente.historia_clinica,
 				sexo: paciente.sexo,
 				genero: paciente.genero,
@@ -136,6 +136,7 @@ const Filiatorios = (props) => {
 	}, [props.historial]);
 
 	useEffect(() => {
+    console.log(values, paciente)
 		dispatch(getFormulario( values ));
 	}, [values]);
 

@@ -27,7 +27,7 @@ export default function PatientFiliatorio() {
 					</p>
 					<p>
 						Fecha de Nacimiento:{' '}
-						<span>{`${new Date(pac.fechaNacimiento.seconds * 1000).getDate()}/${
+						<span>{/*`${new Date(pac.fechaNacimiento.seconds * 1000).getDate()}/${
 							new Date(pac.fechaNacimiento.seconds * 1000).getMonth() + 1 >= 10
 								? new Date(pac.fechaNacimiento.seconds * 1000).getMonth() + 1
 								: `0${
@@ -35,7 +35,8 @@ export default function PatientFiliatorio() {
 								  }`
 						}/${new Date(
 							pac.fechaNacimiento.seconds * 1000
-						).getFullYear()}`}</span>
+            ).getFullYear()}`*/
+            }</span>
 					</p>
 					<p>
 						Edad Actual:{' '}
